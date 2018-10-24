@@ -1,7 +1,10 @@
 h1 {
-  color: skyblue;
+  color: white;
 }
 
-/* ul{
-list-style: none;
-} */
+.bodyDiv {
+  background-color: teal;
+  background-image: url(https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png);
+  height: 1500px;
+  width: 100%;
+}
